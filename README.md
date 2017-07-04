@@ -3,5 +3,5 @@
 
 This program calculates the number of characters in a string.
 
-<hr>
-- Ramet David 2017 -
+<hr><br>
+Ramet David 2017
